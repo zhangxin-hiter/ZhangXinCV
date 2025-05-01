@@ -14,7 +14,7 @@ LaTeX Template for Curriculum Vitæ
 
 用法
 -------------
-- 环境：简历在 Ubuntu Linux + TexLive2012-20120701以及Windows 7 + CTeX_2.9.2.164_Full 环境下使用XeLaTeX编译通过。
+- 环境：windows + texlive2024下编译通过
 
 - 用到的宏包：[moderncv v1.5.1 (2013/04/29)](https://launchpad.net/moderncv/+download)、[fontawesome v3.1.1 (2013/05/10)](http://www.ctan.org/tex-archive/fonts/fontawesome)
 
