@@ -301,6 +301,9 @@ INPUT d:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 INPUT d:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 INPUT d:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 INPUT d:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+INPUT ./zhangxin-CV-ZH.aux
+INPUT ./zhangxin-CV-ZH.aux
+INPUT zhangxin-CV-ZH.aux
 OUTPUT zhangxin-CV-ZH.aux
 INPUT d:/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 INPUT d:/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
