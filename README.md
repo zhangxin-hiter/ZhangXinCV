@@ -20,7 +20,7 @@ LaTeX Template for Curriculum Vitæ
 
 - fontawesome字体（[FontAwesome.otf](http://mirrors.ctan.org/fonts/fontawesome/opentype/FontAwesome.otf)）
 
-注：仅中文简历依赖moderncv 宏包，英文可以单独使用。
+注：仅中文简历依赖moderncv 宏包，英文可以单独使用(尚未修改完成)。
 
 
 致谢
