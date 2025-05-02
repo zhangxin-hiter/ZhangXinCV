@@ -1,4 +1,4 @@
-WanHu Curriculum Vitæ
+ZhangXin Curriculum Vitæ
 =========
 
 LaTeX Template for Curriculum Vitæ
